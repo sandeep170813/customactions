@@ -1,3 +1,4 @@
+name: customactions
 on: workflow_dispatch
 
 jobs:
